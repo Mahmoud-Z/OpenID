@@ -1,0 +1,13 @@
+- Demo Simulation (Full Cycle)
+  IP: core
+  MVC: (cookies auth like FATORTY or Identity) 
+  json file storage (user data) or static list memory
+  
+  
+- FATORTY
+  pre-configured data (client & IP) in secure way (DB or web.conf (encrypted) or encironment variables)
+  
+  //Tranfer Demo code to Fatorty
+  nuget openid
+  ....
+  
