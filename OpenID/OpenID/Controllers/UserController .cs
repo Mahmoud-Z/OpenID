@@ -15,7 +15,7 @@ namespace OpenID.Controllers
         private List<User> _users;
         public UserController()
         {
-        // Deserialize the users from the JSON file
+            // Deserialize the users from the JSON file
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "userCred.json");
             string json = System.IO.File.ReadAllText(path);
             _users = JsonConvert.DeserializeObject<List<User>>(json);
@@ -25,7 +25,7 @@ namespace OpenID.Controllers
 
 
         public ActionResult Login(string username, string password)
-            {
+        {
             // Check if the user credentials are valid
             User user = _users.FirstOrDefault(u => u.Username == username && u.Password == password);
             if (user == null)
