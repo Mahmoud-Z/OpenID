@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SSO\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj": {}
+    "C:\\Users\\MahmoudAnwar\\OneDrive - ACT\\Desktop\\projects\\OpenID\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj": {}
   },
   "projects": {
-    "D:\\SSO\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj": {
+    "C:\\Users\\MahmoudAnwar\\OneDrive - ACT\\Desktop\\projects\\OpenID\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SSO\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj",
+        "projectUniqueName": "C:\\Users\\MahmoudAnwar\\OneDrive - ACT\\Desktop\\projects\\OpenID\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj",
         "projectName": "IdentityProviderSSO",
-        "projectPath": "D:\\SSO\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj",
-        "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "D:\\SSO\\OpenID\\IdentityProviderSSO\\obj\\",
+        "projectPath": "C:\\Users\\MahmoudAnwar\\OneDrive - ACT\\Desktop\\projects\\OpenID\\OpenID\\IdentityProviderSSO\\IdentityProviderSSO.csproj",
+        "packagesPath": "C:\\Users\\MahmoudAnwar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MahmoudAnwar\\OneDrive - ACT\\Desktop\\projects\\OpenID\\OpenID\\IdentityProviderSSO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MahmoudAnwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[4.1.2, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.10, )"
@@ -75,8 +79,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
