@@ -1,6 +1,6 @@
 ﻿@model OpenID.Classes.LoginViewModel
 
-@using (Html.BeginForm("Login", "User", FormMethod.Post))
+@*@using (Html.BeginForm("Login", "User", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
 
@@ -30,4 +30,24 @@
         }
     </div>
     <button type="submit" class="btn btn-primary">Login</button>
+}*@
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "User", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("Claims", "Claims", "User", routeValues: null, htmlAttributes: new { title = "Claims" })
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Log in", "Loginn", "User", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
 }

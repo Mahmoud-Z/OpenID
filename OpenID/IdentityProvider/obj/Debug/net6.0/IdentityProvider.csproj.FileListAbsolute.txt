@@ -36,3 +36,41 @@ D:\SSO\OpenID\IdentityProvider\obj\Debug\net6.0\refint\IdentityProvider.dll
 D:\SSO\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.pdb
 D:\SSO\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.genruntimeconfig.cache
 D:\SSO\OpenID\IdentityProvider\obj\Debug\net6.0\ref\IdentityProvider.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\appsettings.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityProvider.staticwebassets.runtime.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityProvider.exe
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityProvider.deps.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityProvider.runtimeconfig.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityProvider.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityProvider.pdb
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.csproj.AssemblyReference.cache
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.AssemblyInfoInputs.cache
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.AssemblyInfo.cs
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.csproj.CoreCompileInputs.cache
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.RazorAssemblyInfo.cache
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.RazorAssemblyInfo.cs
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\scopedcss\bundle\IdentityProvider.styles.css
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\scopedcss\projectbundle\IdentityProvider.bundle.scp.css
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.csproj.CopyComplete
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\refint\IdentityProvider.dll
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.pdb
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\IdentityProvider.genruntimeconfig.cache
+C:\Users\MahmoudAnwar\OneDrive - ACT\Desktop\projects\OpenID\OpenID\IdentityProvider\obj\Debug\net6.0\ref\IdentityProvider.dll
