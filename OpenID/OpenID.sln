@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenID", "OpenID\OpenID.csproj", "{CED0C904-A9B7-498A-9646-BC3FE09A1626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityProvider", "IdentityProvider\IdentityProvider.csproj", "{09844C47-1523-4453-B698-F578FFC7EAE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityProviderSSO", "IdentityProviderSSO\IdentityProviderSSO.csproj", "{4D8A7F14-5458-40CF-88DD-1C73CB2B1ED9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CED0C904-A9B7-498A-9646-BC3FE09A1626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CED0C904-A9B7-498A-9646-BC3FE09A1626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CED0C904-A9B7-498A-9646-BC3FE09A1626}.Release|Any CPU.Build.0 = Release|Any CPU
-		{09844C47-1523-4453-B698-F578FFC7EAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09844C47-1523-4453-B698-F578FFC7EAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09844C47-1523-4453-B698-F578FFC7EAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09844C47-1523-4453-B698-F578FFC7EAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8A7F14-5458-40CF-88DD-1C73CB2B1ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8A7F14-5458-40CF-88DD-1C73CB2B1ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8A7F14-5458-40CF-88DD-1C73CB2B1ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8A7F14-5458-40CF-88DD-1C73CB2B1ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
