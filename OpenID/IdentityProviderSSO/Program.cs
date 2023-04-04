@@ -1,6 +1,10 @@
 using IdentityProviderSSO.Data;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +28,32 @@ builder.Services.AddIdentityServer()
                 .AddDeveloperSigningCredential()
                 .AddAspNetIdentity<IdentityUser>();
 
+//var tokenValidationParameters = new TokenValidationParameters
+//{
+//    ValidateIssuerSigningKey = true,
+//    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("o90IbCACXKUkunXoa18cODcLKnQTbjOo5ihEw9j58+8=")) ,
+//    ValidateIssuer = true,
+//    ValidIssuer = "issuer",
+//    ValidateAudience = true,
+//    ValidAudience = "audience",
+//    ValidateLifetime = true,
+//    ClockSkew = TimeSpan.Zero
+//};
+
+//builder.Services.AddAuthentication(o => {
+//    o.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//    o.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+//})
+//        .AddCookie(cfg => cfg.SlidingExpiration = true)
+//        .AddJwtBearer(cfg =>
+//        {
+//            cfg.Audience = "http://localhost:4200/";
+//            cfg.Authority = "http://localhost:5000/";
+//            cfg.RequireHttpsMetadata = false;
+//            cfg.SaveToken = true;
+//            cfg.TokenValidationParameters = tokenValidationParameters;
+//            cfg.Configuration = new OpenIdConnectConfiguration();
+//        });
 
 var app = builder.Build();
 
