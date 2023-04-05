@@ -4,6 +4,8 @@ using Microsoft.Owin.Security.Cookies;
 using OpenAthens.Owin.Security.OpenIdConnect;
 using Owin;
 using System.Configuration;
+using System.Threading.Tasks;
+
 namespace OpenID
 {
     public partial class Startup
@@ -25,7 +27,19 @@ namespace OpenID
                 PostLogoutRedirectUri = OidcRedirectUrl,
                 RedirectUri = OidcRedirectUrl,
                 ResponseType = OpenIdConnectResponseType.Code,
-                Scope = OpenIdConnectScope.OpenId
+                Scope = "openid email profile",
+                SignInAsAuthenticationType = "Cookies",
+                Notifications = new OpenIdConnectAuthenticationNotifications
+                {
+                    SecurityTokenValidated = context =>
+                    {
+                        // Retrieve user claims from the ID token
+                        var idToken = context.ProtocolMessage.IdToken;
+                        var claims = context.AuthenticationTicket.Identity.Claims;
+
+                        return Task.FromResult(0);
+                    }
+                }
             };
             app.UseOpenIdConnectAuthentication(oidcOptions);
         }

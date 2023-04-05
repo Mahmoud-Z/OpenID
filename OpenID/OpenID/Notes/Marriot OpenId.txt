@@ -10,4 +10,12 @@
   //Tranfer Demo code to Fatorty
   nuget openid
   ....
+
+
+new table encrypted for openID Data
+if(check if database can be seen from startup)
+nice
+else
+check a way to do this
+
   
